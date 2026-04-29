@@ -90,33 +90,3 @@ Clone the repository:
 ```bash
 git clone https://github.com/gauravyadav0322/Stock-Price-Prediction-Using-LSTM.git
 cd Stock-Price-Prediction-Using-LSTM
-
----
-
-## Example
-
-**Input:**  
-Historical stock price data  
-
-**Output:**  
-Predicted future stock prices  
-
----
-
-## Future Improvements
-- Improve model accuracy using advanced architectures  
-- Use additional features such as technical indicators  
-- Implement Bidirectional LSTM  
-- Deploy the model as a web application  
-- Integrate real-time stock data  
-
----
-
-## Author
-Gaurav Yadav  
-Aspiring Data Analyst and Data Scientist  
-
----
-
-## Note
-This project is created with a focus on learning and building strong fundamentals in deep learning and financial data analysis.
